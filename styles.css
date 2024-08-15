@@ -84,7 +84,7 @@ body {
 }
 
 .separator-line {
-    width: calc(800px + 40px); /* Largura da foto + espaçamento da borda */
+    width: calc(800px + 40px); 
     margin: 20px auto;
     border: 0;
     border-top: 2px solid #ffffff;
