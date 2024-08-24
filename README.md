@@ -4,3 +4,7 @@
 -  Integração Contínua
 
 Aluno: Renato Teixeira Barreto
+
+## Comandos GIT ultilizados
+
+'git init'
