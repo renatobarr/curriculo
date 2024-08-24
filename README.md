@@ -7,4 +7,10 @@ Aluno: Renato Teixeira Barreto
 
 ## Comandos GIT ultilizados
 
-'git init'
+- git init
+- git add .
+- git commit
+- git push
+- git remote add origin
+
+  não necessariamente nessa ordem
